@@ -2,7 +2,7 @@
 
 
 🎓 Front-end developer & Mediavormgever   
-🧑‍💻 Ik ontwerp en bouw unieke digitale producten, toegankelijk voor **iedereen.**
+🧑‍💻 Ik ontwerp en bouw unieke digitale producten, toegankelijk voor **iedereen.**    
 💼 Front-end developer bij [Sumix Studio](https://www.linkedin.com/company/sumixstudio/)  
 
 
